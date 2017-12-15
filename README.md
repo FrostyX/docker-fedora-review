@@ -2,7 +2,7 @@
 
 ## Example usage
 
-docker run -it --privileged frostyx/fedora-review bash -c "fedora-review -b 1519590; bash"
+    docker run -it --privileged frostyx/fedora-review bash -c "fedora-review -b 1519590; bash"
 
 
 ## The fedora-review tool
